@@ -7,15 +7,13 @@ Navigate with arrow keys. Move tasks instantly. Get things done without distract
 
 ##  Preview
 
-> _[Add a GIF or screenshot here]_  
-> _Example: `assets/demo.gif` or `assets/screenshot.png`_
+<img src="demo/ss.png" width="500" />
 
 ---
 
 ##  Demo Video
 
-> _Coming soon_  
-> _(or embed YouTube/Vimeo link once uploaded)_
+<img src="demo/demo.gif" width="500" />
 
 ---
 
