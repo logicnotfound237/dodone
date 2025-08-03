@@ -45,3 +45,8 @@ cmake .. -G "MinGW Makefiles"
 mingw32-make
 ```
 - Go to the build folder and search for dodone.exe and copy it to any folder in your C: drive (you can even create a new folder if you want) and add that folder to Environment Variables of your system.
+---
+## Tips
+- You can skip the `demo/` folder — it only contains screenshots and a GIF for showcasing the tool. It is not required for running the CLI.
+- Found a bug or want to contribute? Feel free to open a pull request or reach out on [Twitter](https://x.com/_crack_head_).
+
