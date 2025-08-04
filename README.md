@@ -30,14 +30,14 @@ Navigate with arrow keys. Move tasks instantly. Get things done without distract
 ##  Installation (Linux/macOS)
 
 ```bash
-git clone https://github.com/yourusername/dodone.git
+git clone https://github.com/logicnotfound237/dodone.git
 cd dodone
 ./install.sh
 ```
 ##  Installation (windows)
 
 ```bash
-git clone https://github.com/yourusername/dodone.git
+git clone https://github.com/logicnotfound237/dodone.git
 cd dodone
 mkdir build
 cd build
