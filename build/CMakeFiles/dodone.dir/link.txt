@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/dodone.dir/link.d CMakeFiles/dodone.dir/main.cpp.o -o dodone  external/ftxui/libftxui-screen.a external/ftxui/libftxui-dom.a external/ftxui/libftxui-component.a external/ftxui/libftxui-dom.a external/ftxui/libftxui-screen.a

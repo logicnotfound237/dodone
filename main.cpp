@@ -44,7 +44,7 @@ const int NUMBER_OF_TASK_COLUMNS = 3;
 const int TOTAL_COLUMNS = 4;
 
 // Renamed JSON file to dodone.json
-const std::string DATABASE_FILE = "dodone.json";
+const std::string DATABASE_FILE = ".dodone.json";
 const std::string PERMA_TASK_TITLE = "a/d/r/Entr"; // Define the special task title
 
 // Function to save tasks to JSON
